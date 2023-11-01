@@ -1,15 +1,25 @@
-# File Corrupter
+# 🗃️File Corrupter
 
 Changes the bytes of any file.
 
 ![File_Corrupter_VdYkoPGyHT](https://github.com/Uuwai/File-Corrupter/assets/118117530/27396de8-717b-42a7-935d-a2f5152daccf)
 
+## Requirements
+### For Opening the Solution
+1. Visual Studio 2022
+1. NET 6.0
+
+### For Running the Executable
+1. Windows 7  or Later
 ## Corruptions
 
 ### Info
 Randomized - Picks a random byte and modify with a given type of corruption.
 
-All Bytes - Gets all bytes and modify with a given type of corruption
+Iteration - Number of times to Modify a Byte.
+
+All Bytes - Gets all bytes and modify with a given type of corruption.
+
 ### Types
 - **Randomized**
   - Bitwise Operators
